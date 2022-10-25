@@ -8,4 +8,5 @@ input{
     color: aqua;
     height: 30px;
     width: 300px;
+    border-radius: 10px;
 }
