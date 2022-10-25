@@ -1,0 +1,11 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+}
+input{
+    color: aqua;
+    height: 30px;
+    width: 300px;
+}
